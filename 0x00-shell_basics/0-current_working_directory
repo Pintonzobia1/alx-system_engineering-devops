@@ -1,3 +1,2 @@
-#!/bin/bash
-HP@DESKTOP-8EE3SGE MINGW64 ~/alx-system_engineering-devops/0x00-shell_basics (main)
-
+#!/bin/bash/
+echo HP@DESKTOP-8EE3SGE MINGW64 alx-system_engineering-devops0x00-shell_basics
